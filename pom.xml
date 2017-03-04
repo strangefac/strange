@@ -2,14 +2,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.strangefac</groupId>
     <artifactId>strange</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
     <properties>
         <project.build.sourceEncoding>US-ASCII</project.build.sourceEncoding>
         <slf4j.version>1.7.25</slf4j.version>
     </properties>
     <scm>
         <developerConnection>scm:git:file://.</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1</tag>
     </scm>
     <dependencies>
         <dependency>
